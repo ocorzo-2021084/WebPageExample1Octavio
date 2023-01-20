@@ -1,0 +1,16 @@
+body {
+    background-color: #BDC3C7;
+}
+
+.title {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#texto {
+    color: blueviolet;
+}
+
+.kinal {
+    text-align: center;
+}
